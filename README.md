@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/wearetec9/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/wearetec9/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/wearetec9/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3612-process-string-with-special-operations-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
