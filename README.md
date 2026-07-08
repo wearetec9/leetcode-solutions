@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/wearetec9/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/wearetec9/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3612-process-string-with-special-operations-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/wearetec9/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
 | ------- |
