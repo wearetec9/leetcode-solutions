@@ -7,7 +7,7 @@ public:
                 
                 std::swap(matrix[i][j], matrix[j][i]);
             }
-        reverse(matrix[i].rbegin(),matrix[i].rend());
+        reverse(matrix[i].begin(),matrix[i].end());
         }
     }
 };
