@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/wearetec9/leetcode-solutions/tree/master/0258-add-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wearetec9/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/wearetec9/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/wearetec9/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/wearetec9/leetcode-solutions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/wearetec9/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0292-nim-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1903-largest-odd-number-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/wearetec9/leetcode-solutions/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/wearetec9/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wearetec9/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
