@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/wearetec9/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/wearetec9/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/wearetec9/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/wearetec9/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wearetec9/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/wearetec9/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/wearetec9/leetcode-solutions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/wearetec9/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0292-nim-game) |
+| [0633-sum-of-square-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1903-largest-odd-number-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/wearetec9/leetcode-solutions/tree/master/2235-add-two-integers) |
