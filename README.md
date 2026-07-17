@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/wearetec9/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/wearetec9/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2643-row-with-maximum-ones](https://github.com/wearetec9/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wearetec9/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/wearetec9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/wearetec9/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/wearetec9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/wearetec9/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
