@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/wearetec9/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/wearetec9/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/wearetec9/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/wearetec9/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
