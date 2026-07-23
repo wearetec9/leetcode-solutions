@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/wearetec9/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wearetec9/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/wearetec9/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/wearetec9/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/wearetec9/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/wearetec9/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/wearetec9/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/wearetec9/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
