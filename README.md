@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/wearetec9/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/wearetec9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/wearetec9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/wearetec9/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/wearetec9/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/wearetec9/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/wearetec9/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/wearetec9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/wearetec9/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/wearetec9/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/wearetec9/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/wearetec9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/wearetec9/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wearetec9/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
