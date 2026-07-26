@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/wearetec9/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/wearetec9/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/wearetec9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/wearetec9/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/wearetec9/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/wearetec9/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/wearetec9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/wearetec9/leetcode-solutions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/wearetec9/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1903-largest-odd-number-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
