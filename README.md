@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/wearetec9/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/wearetec9/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/wearetec9/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/wearetec9/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/wearetec9/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/wearetec9/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/wearetec9/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/wearetec9/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/wearetec9/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/wearetec9/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wearetec9/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
