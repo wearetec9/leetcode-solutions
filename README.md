@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/wearetec9/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/wearetec9/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/wearetec9/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/wearetec9/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/wearetec9/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/wearetec9/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/wearetec9/leetcode-solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/wearetec9/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
