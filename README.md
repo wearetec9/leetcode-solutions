@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/wearetec9/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/wearetec9/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/wearetec9/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/wearetec9/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/wearetec9/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/wearetec9/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/wearetec9/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1903-largest-odd-number-in-string](https://github.com/wearetec9/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wearetec9/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/wearetec9/leetcode-solutions/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
